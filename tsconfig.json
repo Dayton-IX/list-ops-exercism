@@ -12,7 +12,7 @@
     // https://babeljs.io/docs/en/
     "target": "ESNext", // ESLint doesn't support this yet: "es2022",
 
-    "strict": true,
+    "strict": false,
     "esModuleInterop": true,
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
